@@ -14,7 +14,7 @@ We also generate and publicly release the first large-scale dataset that maps mu
 our research will spark further investigations into the potential of deep learning to revolutionise this field.
 
 Our dataset can be found https://www.kaggle.com/datasets/munetanonymous/muons-scattering-dataset. 
-The code for data generation can be found at [redacted].
+The code for data generation can be found at https://github.com/MuNetAnonymous/Muons-Data-Generation)
 
 ## Loading Weights
 
